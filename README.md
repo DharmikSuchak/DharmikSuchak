@@ -1,35 +1,76 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
+<h1 align="center">Hey, I'm Dharmik Suchak 👋</h1>
+<h3 align="center">Backend & Full-Stack Engineer | Building things that scale, one race condition fixed at a time</h3>
 
-<h1 align="center">Hi 👋, I'm Dharmik Suchak</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-
-###
-
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-- 🔭 I’m currently working on **Backend**
-  
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
-
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
-
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
-
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="https://linkedin.com/in/abhinendrasingh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinendrasingh3" height="30" width="40" /></a>
-<a href="https://instagram.com/_jodxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
-</p> 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
----
-
-## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
+  <a href="https://www.linkedin.com/in/dharmiksuchak/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DharmikSuchak">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/Dharmik_Suchak">
+    <img src="https://img.shields.io/badge/Codolio-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:dharmiksuchak1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<br clear="both">
+---
+
+### A bit about me
+
+I finished my MTech in ICT at DA-IICT Gandhinagar this year (CPI 8.39), and for the five months before that I was a founding engineer on **SpeedEcom**, a multi-tenant SaaS reconciliation platform for 800+ e-commerce sellers running across Amazon, Flipkart, and Meesho. That's where I learned the difference between "it works on my machine" and "it works when 800 sellers hit it at once on a 5-server setup." Some highlights from that stretch:
+
+- 🔀 Built a least-loaded proxy routing layer to actually spread traffic sensibly instead of just round-robining and hoping
+- 🔐 Designed a 5-tier RBAC system so the right people see the right data (and nobody else)
+- 🐛 Tracked down and fixed a nasty PostgreSQL race condition sitting inside the billing logic — the kind of bug that only shows up under real concurrent load
+- ⚡ Rebuilt a chunk of our database indexing strategy, which cut CPU load by roughly 50%
+
+Outside of backend work, I've been going deep on AI/ML — I built **Medibot**, a benchmarking framework comparing GPT-4o, Gemini 1.5 Pro, LLaMA 3, and DeepSeek using LangChain, RAG, and Chain-of-Thought prompting. I also have a patent application filed (No. 202421033126) from that research.
+
+---
+
+### 🔭 What I'm up to right now
+
+- Actively looking for backend, full-stack, and AI/ML engineering roles
+- Grinding through LeetCode's 30 Days of JavaScript (closures, counters, custom `expect` functions — the classics)
+- Prepping for a Forward Deployed Engineer assessment, which means a lot of "implement debounce/throttle/Promise.all from scratch" practice
+- North of 800 LeetCode problems solved, peak rating 1471
+
+---
+
+### 🛠️ Tech I work with
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color:white;border-radius:6px;padding:2px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharmikSuchak&show_icons=true&theme=tokyonight&hide_border=true" alt="Dharmik's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharmikSuchak&theme=tokyonight&hide_border=true" alt="Dharmik's streak stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmikSuchak&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center"><i>Open to backend, full-stack, and AI/ML roles — feel free to reach out.</i></p>
