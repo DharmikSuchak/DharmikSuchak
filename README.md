@@ -11,7 +11,7 @@
   <a href="https://codolio.com/profile/Dharmik_Suchak">
     <img src="https://img.shields.io/badge/Codolio-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="mailto:dharmiksuchak1@gmail.com">
+  <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -24,17 +24,19 @@ I finished my MTech in ICT at DA-IICT Gandhinagar this year (CPI 8.39), and for 
 
 - 🔀 Built a least-loaded proxy routing layer to actually spread traffic sensibly instead of just round-robining and hoping
 - 🔐 Designed a 5-tier RBAC system so the right people see the right data (and nobody else)
-- 🐛 Tracked down and fixed a nasty PostgreSQL race condition sitting inside the billing logic — the kind of bug that only shows up under real concurrent load
+- 🐛 Tracked down and fixed a nasty PostgreSQL race condition sitting inside the billing logic, the kind of bug that only shows up under real concurrent load
 - ⚡ Rebuilt a chunk of our database indexing strategy, which cut CPU load by roughly 50%
 
-Outside of backend work, I've been going deep on AI/ML — I built **Medibot**, a benchmarking framework comparing GPT-4o, Gemini 1.5 Pro, LLaMA 3, and DeepSeek using LangChain, RAG, and Chain-of-Thought prompting. I also have a patent application filed (No. 202421033126) from that research.
+Outside of backend work, I've been going deep on AI/ML. I built **Medibot**, a benchmarking framework comparing GPT-4o, Gemini 1.5 Pro, LLaMA 3, and DeepSeek using LangChain, RAG, and Chain-of-Thought prompting. I also have a patent application filed (No. 202421033126) from that research.
+
+I currently make short-form dev content on YouTube under **[@KabilBano](https://youtube.com/@KabilBano)**, mostly interview-prep and "explain it like I'm learning it too" style tutorials, because I think most CS content online assumes too much and explains too little.
 
 ---
 
 ### 🔭 What I'm up to right now
 
 - Actively looking for backend, full-stack, and AI/ML engineering roles
-- Grinding through LeetCode's 30 Days of JavaScript (closures, counters, custom `expect` functions — the classics)
+- Grinding through LeetCode's 30 Days of JavaScript (closures, counters, custom `expect` functions, the classics)
 - Prepping for a Forward Deployed Engineer assessment, which means a lot of "implement debounce/throttle/Promise.all from scratch" practice
 - North of 800 LeetCode problems solved, peak rating 1471
 
@@ -73,4 +75,4 @@ Outside of backend work, I've been going deep on AI/ML — I built **Medibot**, 
 
 ---
 
-<p align="center"><i>Open to backend, full-stack, and AI/ML roles — feel free to reach out.</i></p>
+<p align="center"><i>Open to backend, full-stack, and AI/ML roles. Feel free to reach out.</i></p>
