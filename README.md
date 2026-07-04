@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Dharmik Suchak 👋</h1>
-<h3 align="center">Backend & Full-Stack Engineer | Building things that scale, one race condition fixed at a time</h3>
+<h1 align="center">Dharmik Suchak</h1>
+<h3 align="center">Backend and Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dharmiksuchak/">
@@ -18,29 +18,21 @@
 
 ---
 
-### A bit about me
+### About
 
-I finished my MTech in ICT at DA-IICT Gandhinagar this year (CPI 8.39), and for the five months before that I was a founding engineer on **SpeedEcom**, a multi-tenant SaaS reconciliation platform for 800+ e-commerce sellers running across Amazon, Flipkart, and Meesho. That's where I learned the difference between "it works on my machine" and "it works when 800 sellers hit it at once on a 5-server setup." Some highlights from that stretch:
+I completed my MTech in ICT at DA-IICT Gandhinagar this year with a CPI of 8.39. Before that, I spent five months at HM Square Solutions as part of the founding engineering team on SpeedEcom, a multi-tenant SaaS reconciliation platform serving more than 800 e-commerce sellers across Amazon, Flipkart, and Meesho, running on a five-server production setup.
 
-- 🔀 Built a least-loaded proxy routing layer to actually spread traffic sensibly instead of just round-robining and hoping
-- 🔐 Designed a 5-tier RBAC system so the right people see the right data (and nobody else)
-- 🐛 Tracked down and fixed a nasty PostgreSQL race condition sitting inside the billing logic, the kind of bug that only shows up under real concurrent load
-- ⚡ Rebuilt a chunk of our database indexing strategy, which cut CPU load by roughly 50%
+That work involved a fair amount of hands-on problem solving. I built a least-loaded proxy routing layer to distribute traffic across servers instead of relying on simple round-robin logic. I designed a five-tier RBAC system so access control matched the actual complexity of a multi-tenant platform. I also tracked down a PostgreSQL race condition sitting inside the billing logic, one that only appeared under real concurrent load and took time to isolate properly. Separately, I reworked our database indexing strategy, which brought CPU load down by close to 50 percent.
 
-Outside of backend work, I've been going deep on AI/ML. I built **Medibot**, a benchmarking framework comparing GPT-4o, Gemini 1.5 Pro, LLaMA 3, and DeepSeek using LangChain, RAG, and Chain-of-Thought prompting. I also have a patent application filed (No. 202421033126) from that research.
+Alongside backend work, I have also spent time on AI and ML. I built Medibot, a benchmarking framework that compares GPT-4o, Gemini 1.5 Pro, LLaMA 3, and DeepSeek using LangChain, retrieval augmented generation, and chain-of-thought prompting. That work led to a patent application, No. 202421033126.
 
----
+### Currently
 
-### 🔭 What I'm up to right now
+I am looking for backend, full-stack, and AI/ML engineering roles. In parallel, I am working through LeetCode's 30 Days of JavaScript series and preparing for a Forward Deployed Engineer assessment, which mostly involves implementing patterns like debounce, throttle, and Promise.all from scratch rather than depending on a library. I have solved more than 800 LeetCode problems, with a peak rating of 1471.
 
-- Actively looking for backend, full-stack, and AI/ML engineering roles
-- Grinding through LeetCode's 30 Days of JavaScript (closures, counters, custom `expect` functions, the classics)
-- Prepping for a Forward Deployed Engineer assessment, which means a lot of "implement debounce/throttle/Promise.all from scratch" practice
-- North of 800 LeetCode problems solved, peak rating 1471
+### Technical background
 
----
-
-### 🛠️ Tech I work with
+Node.js, TypeScript, Express, React, PostgreSQL, MongoDB, Redis, Docker, Google Cloud Platform, Python, FastAPI, C++, JavaScript.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -56,12 +48,6 @@ Outside of backend work, I've been going deep on AI/ML. I built **Medibot**, a b
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmikSuchak&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
