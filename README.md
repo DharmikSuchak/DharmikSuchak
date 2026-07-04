@@ -11,7 +11,7 @@
   <a href="https://codolio.com/profile/Dharmik_Suchak">
     <img src="https://img.shields.io/badge/Codolio-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="dharmiksuchak1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -28,8 +28,6 @@ I finished my MTech in ICT at DA-IICT Gandhinagar this year (CPI 8.39), and for 
 - ⚡ Rebuilt a chunk of our database indexing strategy, which cut CPU load by roughly 50%
 
 Outside of backend work, I've been going deep on AI/ML. I built **Medibot**, a benchmarking framework comparing GPT-4o, Gemini 1.5 Pro, LLaMA 3, and DeepSeek using LangChain, RAG, and Chain-of-Thought prompting. I also have a patent application filed (No. 202421033126) from that research.
-
-I currently make short-form dev content on YouTube under **[@KabilBano](https://youtube.com/@KabilBano)**, mostly interview-prep and "explain it like I'm learning it too" style tutorials, because I think most CS content online assumes too much and explains too little.
 
 ---
 
@@ -61,13 +59,6 @@ I currently make short-form dev content on YouTube under **[@KabilBano](https://
 </p>
 
 ---
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharmikSuchak&show_icons=true&theme=tokyonight&hide_border=true" alt="Dharmik's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharmikSuchak&theme=tokyonight&hide_border=true" alt="Dharmik's streak stats" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmikSuchak&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
