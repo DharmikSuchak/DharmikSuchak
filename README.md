@@ -1,7 +1,5 @@
 <h1 align="center">Dharmik Suchak</h1>
 
----
-
 ### About
 
 I completed my MTech in ICT at DA-IICT Gandhinagar this year with a CPI of 8.39. Before that, I spent five months at HM Square Solutions as part of the founding engineering team on SpeedEcom, a multi-tenant SaaS reconciliation platform serving more than 800 e-commerce sellers across Amazon, Flipkart, and Meesho, running on a five-server production setup.
